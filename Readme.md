@@ -15,7 +15,7 @@
 - ### Загрузка образа из архива
     `docker load -i sport-scan-ai.tar`
 
-Лицензия - Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+# Лицензия - Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Полный текст лицензии доступен здесь: [Юридический кодекс CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 ## Вы можете свободно использовать:
 - Делиться — копировать и распространять материал на любом носителе или в любом формате
