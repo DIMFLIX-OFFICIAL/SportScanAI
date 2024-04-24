@@ -38,6 +38,12 @@ https://hub.docker.com/repository/docker/dimflix/sport-scan-ai:latest
 - ### Загрузка образа из архива
     `docker load -i sport-scan-ai.tar`
 
+- ### Обновить образ на Docker Hub
+  `docker build -t <username>/<image-name>:latest .`\
+  `docker login`\
+  `docker push <username>/<image-name>:latest`
+
+
 # Авторы
 <table>
   <tr>
